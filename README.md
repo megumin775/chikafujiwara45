@@ -1,7 +1,5 @@
 <h2><img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="30px"> Hello :3, This is Dicky Herlambang GitHub Page.</h2>
 
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 [![Nicklas373 github stats](https://github-readme-stats.vercel.app/api?username=nicklas373&count_private=true&show_icons=true)](https://github.com/nicklas373)
 [![Nicklas373 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicklas373&layout=compact)](https://github.com/nicklas373)
 
